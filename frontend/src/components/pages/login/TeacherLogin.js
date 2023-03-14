@@ -3,7 +3,7 @@ import React from 'react'
 const TeacherLogin = () => {
   return (
     <div>
-      teacher
+      <form action=""></form>
     </div>
   )
 }
